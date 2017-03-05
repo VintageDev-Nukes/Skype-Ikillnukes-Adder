@@ -1,0 +1,20 @@
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.frmMain.resources
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\Agregueitor.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\WindowsApplication2.frmMain.resources
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\Agregueitor.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Debug\Agregueitor.vbproj.ResolveComReference.cache

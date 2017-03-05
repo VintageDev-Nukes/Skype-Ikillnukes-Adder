@@ -1,0 +1,2 @@
+regsvr32 Interop.SKYPE4COMLib.dll
+pause

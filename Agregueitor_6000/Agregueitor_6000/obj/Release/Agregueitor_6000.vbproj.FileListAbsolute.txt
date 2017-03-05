@@ -1,0 +1,16 @@
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Release\Agregueitor_6000.exe.config
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Release\Agregueitor_6000.exe
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Release\Agregueitor_6000.pdb
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Release\Agregueitor_6000.xml
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Release\Agregueitor_6000.exe.CodeAnalysisLog.xml
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Release\Agregueitor_6000.exe.lastcodeanalysissucceeded
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Interop.SKYPE4COMLib.dll
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.vbproj.ResolveComReference.cache
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.Contactos.resources
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.frmMain.resources
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.Resources.resources
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.exe
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.xml
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.pdb
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Release\Agregueitor_6000.ManualAdd.resources

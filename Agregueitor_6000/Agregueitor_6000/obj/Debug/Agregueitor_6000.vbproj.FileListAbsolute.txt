@@ -1,0 +1,26 @@
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\bin\Debug\Agregueitor_6000.exe.config
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\bin\Debug\Agregueitor_6000.exe
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\bin\Debug\Agregueitor_6000.pdb
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\bin\Debug\Agregueitor_6000.xml
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.vbproj.ResolveComReference.cache
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.frmMain.resources
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.Resources.resources
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.exe
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.xml
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor_6000\obj\Debug\Agregueitor_6000.pdb
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Debug\Agregueitor_6000.exe.config
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.vbproj.ResolveComReference.cache
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.exe
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.xml
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.pdb
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Debug\Agregueitor_6000.exe
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Debug\Agregueitor_6000.pdb
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\bin\Debug\Agregueitor_6000.xml
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.Resources.resources
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.frmMain.resources
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.Contactos.resources
+C:\Users\Alvaro\Documents\Agregueitor_6000\Agregueitor_6000\obj\Debug\Agregueitor_6000.ManualAdd.resources

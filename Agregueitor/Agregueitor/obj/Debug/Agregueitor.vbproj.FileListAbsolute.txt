@@ -1,0 +1,20 @@
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\bin\Debug\Agregueitor.exe.config
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\bin\Debug\Agregueitor.exe
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\bin\Debug\Agregueitor.pdb
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\bin\Debug\Agregueitor.xml
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\obj\Debug\Agregueitor.frmMain.resources
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\obj\Debug\Agregueitor.Resources.resources
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\obj\Debug\Agregueitor.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\obj\Debug\Agregueitor.exe
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\obj\Debug\Agregueitor.xml
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Agregueitor\obj\Debug\Agregueitor.pdb
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\bin\Debug\Agregueitor.exe.config
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\obj\Debug\Agregueitor.exe
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\obj\Debug\Agregueitor.xml
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\obj\Debug\Agregueitor.pdb
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\bin\Debug\Agregueitor.exe
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\bin\Debug\Agregueitor.pdb
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\bin\Debug\Agregueitor.xml
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\obj\Debug\Agregueitor.frmMain.resources
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\obj\Debug\Agregueitor.Resources.resources
+C:\Users\Alvaro\Documents\Agregueitor\Agregueitor\obj\Debug\Agregueitor.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\Interop.SKYPE4COMLib.dll
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\Agregueitor.vbproj.ResolveComReference.cache
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\WindowsApplication2.frmMain.resources
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\Agregueitor.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\Agregueitor 3000\WindowsApplication2\obj\Release\WindowsApplication2.pdb

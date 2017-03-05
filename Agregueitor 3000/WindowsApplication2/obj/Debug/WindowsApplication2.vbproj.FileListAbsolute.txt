@@ -1,0 +1,18 @@
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Visual Studio Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Alvaro\Documents\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
